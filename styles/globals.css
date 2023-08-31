@@ -32,4 +32,6 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  /* color: hsla(30, 100%, 50%, .3); */
+  background: linear-gradient(hsl(30 100% 50% / 1), hsla(300, 100%, 50%, 1));
 }
